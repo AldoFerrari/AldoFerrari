@@ -1,7 +1,7 @@
-### Hi there 👋
-![IBM Aptiva multimedia 486@66mhz 4mb RAM 500mb HD](ibm.jpg)
+### Ciao there 👋
+[![IBM Aptiva multimedia 486@66mhz 4mb RAM 500mb HD](ibm.jpg)](#)
 
-all started in **1996** with my first IBM Aptiva multimedia 486@66mhz 4mb RAM 500mb HD - Corel Draw and Theme park.
+All started in **1996** with my first IBM Aptiva multimedia 486@66mhz 4mb RAM 500mb HD - Corel Draw and Theme park.
  
  
 <!--
