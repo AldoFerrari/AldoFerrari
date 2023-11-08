@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![enter image description here](https://i.redd.it/6hn07igk7fl61.jpg)
-
+<img src="[drawing.jpg](https://i.redd.it/6hn07igk7fl61.jpg)" alt="drawing" style="width:200px;"/>
 <!--
 **AldoFerrari/AldoFerrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
