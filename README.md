@@ -2,7 +2,8 @@
 [![IBM Aptiva multimedia 486@66mhz 4mb RAM 500mb HD](ibm.jpg)](#)
 
 All started in **1996** with my first IBM Aptiva multimedia 486@66mhz 4mb RAM 500mb HD - Corel Draw and Theme park.
- 
+
+- 🔭 27+ years that i design, develop and i was able to make my passion my actual job.
  
 <!--
 **AldoFerrari/AldoFerrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
