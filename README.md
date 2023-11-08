@@ -1,13 +1,12 @@
 ### Hi there 👋
+![IBM Aptiva multimedia 486@66mhz 4mb RAM 500mb HD](ibm.jpg)
 
-all started in **1996** with my first IBM Aptiva multimedia 486@66MHZ 2MB RAM 500MB HD - Corel Draw and Theme park.
-<img src="(https://i.redd.it/6hn07igk7fl61.jpg)" alt="drawing" style="width:200px;"/>
-
-![Image](https://i.redd.it/6hn07igk7fl61.jpg =200x200)
+all started in **1996** with my first IBM Aptiva multimedia 486@66mhz 4mb RAM 500mb HD - Corel Draw and Theme park.
+ 
+ 
 <!--
 **AldoFerrari/AldoFerrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
