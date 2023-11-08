@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+![enter image description here](https://i.redd.it/6hn07igk7fl61.jpg)
+
 <!--
 **AldoFerrari/AldoFerrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
